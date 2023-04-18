@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">メモアプリ.ver_1</string>
+    <string name="b1">項目1</string>
+    <string name="b2">項目2</string>
+    <string name="b3">項目3</string>
+    <string name="selecting">を選択しました</string>
+    <string name="text">ボタンを押してください</string>
+
+    <string name="main">Main Activity</string>
+    <string name="move">MOVE</string>
+    <string name="sub">Sub Activity</string>
+    <string name="return_sub">RETURN</string>
+</resources>
